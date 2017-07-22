@@ -1,0 +1,6 @@
+C:\Users\Asusi7\Documents\Tamara\CodeJam\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Asusi7\Documents\Tamara\CodeJam\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Asusi7\Documents\Tamara\CodeJam\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Asusi7\Documents\Tamara\CodeJam\ConsoleApplication1\ConsoleApplication1\obj\Debug\TheLastWord.csprojResolveAssemblyReference.cache
+C:\Users\Asusi7\Documents\Tamara\CodeJam\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Asusi7\Documents\Tamara\CodeJam\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
